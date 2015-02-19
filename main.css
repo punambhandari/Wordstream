@@ -1,0 +1,200 @@
+body {
+	font-family: helvetica, sans-serif;
+	font-size: 12px;
+	margin: 0;
+}
+
+
+#maincontainer{
+	width: 970px;
+	font-family: helvetica, sans-serif;
+	font-size: 12px;
+}
+
+.boldcontent{
+	font-weight: bold;
+}
+
+#banner{
+	height: 100px;
+
+
+}
+		#logoimage{
+			padding-right: 180px;
+			padding-left: 15px;
+
+		}
+
+		#bannerlist{
+			display: inline-block;
+			vertical-align: top;
+			border-width: 0px 1px 1px 1px;
+			border-style: solid;
+			border-color: grey;
+			border-radius: 5px;
+			padding: 5px;
+			margin: 0;
+		}
+	
+		#bannerlist li{
+			display: inline;
+			padding: 2px;
+			text-align: center;
+
+		}
+
+		#Loginbtn{
+			display: inline;
+			vertical-align: top;
+			text-align: center;
+			margin: 0px 10px 10px 10px;
+			height: 25px;
+			width: 60px;
+			border-radius: 2px;
+			background: linear-gradient(#104282, #1D65B4);
+			border-color: #104282;
+			color: white;
+		}
+
+
+#lowerbanner{
+	height: 40px;
+	background: linear-gradient(#104282, #1D65B4);
+	font-size: 24px;
+	font-weight: bold;
+	padding: 20px 0px 0px 15px;
+	color: white;
+}
+
+
+
+#adds{
+	
+	display: inline-block;
+	width: 250px;
+	margin: 0;
+	vertical-align: top;
+	padding: 60px 0px 0px 10px;
+	
+}
+		#adds h1{
+			font-size: 20px;
+			
+		color: white;
+			color: #104282;
+			font-family: helvetica, sans-serif;
+			font-weight: normal;
+		}
+		#btnDemo{
+		background: linear-gradient(#104282, #1D65B4);
+		color: white;
+		border: none;
+		padding: 7px;
+		width: 230px;
+		border-radius: 5px;
+		font-size: 14px;
+		font-weight: bold;
+	}
+	#btnTrial{
+		background: linear-gradient(#B3244E, orange);
+		color: white;
+		border: none;
+		padding: 7px;
+		width: 230px;
+		margin-top: 5px;
+		border-radius: 5px;
+		font-size: 14px;
+		font-weight: bold;
+	}
+	#disclamer{
+	text-align: center;
+	}
+	#adds h2{
+	font-size: 14px;
+	font-weight: normal;
+	color: #B3244E;
+	}
+
+
+
+#content{
+	
+	display: inline-block;
+	width: 707px;
+	margin:0;
+	vertical-align: top;
+}
+		#contact{
+		height: 70px;
+		padding-top: 20px;
+		
+		border-bottom-style: solid;
+		border-bottom-width: 2px;
+		border-bottom-color: #DCDCDC;
+
+		}
+				#contact a:link{
+					font-size: 16px;
+					color: grey;
+					font-family: helvetica, sans-serif;
+					text-decoration: none;
+				}
+
+				#contact a:vertical-align{
+					vertical-align: middle;
+					
+				}
+
+				#contactus {display: inline-block;
+				vertical-align: top;
+				}
+
+					
+						
+				#house {
+						
+							vertical-align: middle;
+						}
+	#content h2{
+	font-size: 16px;
+	color: #1D65B4;
+	}
+	#content h3{
+	font-size: 14px;
+	color: #1D65B4;
+	font-weight: bold;
+	}
+
+	#ppc li{
+		padding: 5px;
+	}
+
+
+#getstarted{
+	width: 690px;
+	border-style: solid;
+	border-width: 3px;
+	border-color:  #1D65B4;
+	height: 150px;
+	padding: 5px;
+	}
+		#getstarted p{
+			font size:14px;
+		}
+
+		#btngetstarted{
+			margin-top: 10px;
+			padding: 10px;
+			background: linear-gradient(#9ACD32,#9ACD32);
+			color: white;
+			font-weight: bold;
+			font-size: 14px;
+			border-style: solid;
+			border-width: 1px;
+			border-color: #2E8B57;
+			border-radius: 5px;
+		}
+		#boldcontent {
+			font-weight: bold;
+		}
